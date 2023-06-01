@@ -72,6 +72,9 @@ select {
   background-color: #9873fe;
   color: #ffffff;
 }
+select:hover{
+  cursor: pointer;
+}
 select option {
   background-color: #ffffff;
   color: #02002c;
@@ -85,6 +88,9 @@ button {
   border-radius: 0.3em;
   color: #ffffff;
   font-weight: 600;
+}
+button:hover{
+  cursor: pointer;
 }
 #result {
   font-size: 1.2em;
