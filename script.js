@@ -22,3 +22,11 @@ currencies.forEach((currency) => {
 //Setting default currency values
 fromDropDown.value = "USD";
 toDropDown.value = "BDT";
+
+let convertCurrency = () => {
+  //Create References
+  const amount = document.querySelector("#amount").value;
+  const fromCurrency = fromDropDown.value;
+  const toCurrency = toDropDown.value;
+
+};
