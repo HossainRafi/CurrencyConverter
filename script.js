@@ -18,3 +18,7 @@ currencies.forEach((currency) => {
   option.text = currency;
   toDropDown.add(option);
 });
+
+//Setting default currency values
+fromDropDown.value = "USD";
+toDropDown.value = "BDT";
