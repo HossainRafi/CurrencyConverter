@@ -24,6 +24,7 @@ fromDropDown.value = "USD";
 toDropDown.value = "BDT";
 
 let convertCurrency = () => {
+    
   //Create References
   const amount = document.querySelector("#amount").value;
   const fromCurrency = fromDropDown.value;
@@ -45,3 +46,8 @@ let convertCurrency = () => {
     alert("Please Enter Amount");
   }
 };
+
+document
+  .querySelector("#convert-button")
+  .addEventListener("click", convertCurrency);
+window.addEventListener("load", convertCurrency);
