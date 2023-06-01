@@ -20,3 +20,16 @@ body {
   padding: 2em;
   border-radius: 0.8em;
 }
+.app-details {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.app-icon {
+  width: 9.37em;
+}
+.app-title {
+  font-size: 1.6em;
+  text-transform: uppercase;
+  margin-bottom: 1em;
+}
