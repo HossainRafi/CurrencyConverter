@@ -32,7 +32,8 @@ body {
   font-size: 1.6em;
   text-transform: uppercase;
   margin-bottom: 1em;
-}label {
+}
+label {
   display: block;
   font-weight: 600;
 }
@@ -74,4 +75,22 @@ select {
 select option {
   background-color: #ffffff;
   color: #02002c;
+}
+button {
+  font-size: 1em;
+  width: 100%;
+  background-color: #9873fe;
+  padding: 1em 0;
+  margin-top: 2em;
+  border-radius: 0.3em;
+  color: #ffffff;
+  font-weight: 600;
+}
+#result {
+  font-size: 1.2em;
+  text-align: center;
+  margin-top: 1em;
+  color: #02002c;
+  background-color: #e5dbff;
+  padding: 0.8em 0;
 }
