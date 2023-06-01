@@ -32,4 +32,27 @@ body {
   font-size: 1.6em;
   text-transform: uppercase;
   margin-bottom: 1em;
+}label {
+  display: block;
+  font-weight: 600;
+}
+input#amount {
+  font-weight: 400;
+  font-size: 1.2em;
+  display: block;
+  width: 100%;
+  border-bottom: 2px solid #02002c;
+  color: #7a789d;
+  margin-bottom: 2em;
+  padding: 0.5em;
+}
+input#amount:focus {
+  color: #9873fe;
+  border-color: #9873fe;
+}
+.dropdowns {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1em;
 }
