@@ -10,3 +10,11 @@ currencies.forEach((currency) => {
   option.text = currency;
   fromDropDown.add(option);
 });
+
+//Repeat "create dropdown from the currencies array"
+currencies.forEach((currency) => {
+  const option = document.createElement("option");
+  option.value = currency;
+  option.text = currency;
+  toDropDown.add(option);
+});
