@@ -1,13 +1,13 @@
-# Project Name: [Currency Converter](https://currencyconverter-appjs.netlify.app)
+## Project Title: [Currency Converter](https://currencyconverter-appjs.netlify.app)
 
-## Live Site Link: [Currency Converter](https://currencyconverter-appjs.netlify.app)
-
-## This is a Currency Converter app build with HTML, CSS, JavaScript & API
-
-### Technology Used:
+## Tech Stack:
 - HTML
 - CSS
 - JavaScript
 - API
 
+## Project Description:
+### This is a Currency Converter app build with HTML, CSS, JavaScript & API
+
+## Project Screenshots:
 ![app image](https://i.ibb.co/rpkC26R/currency-converter.png)
