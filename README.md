@@ -1,4 +1,4 @@
-# Project Title: [Currency Converter](https://currencyconverter-appjs.netlify.app)
+# Project Name: [Currency Converter](https://currencyconverter-appjs.netlify.app)
 
 ## Technologies:
 - HTML
